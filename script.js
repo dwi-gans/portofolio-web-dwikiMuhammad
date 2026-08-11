@@ -120,7 +120,7 @@ const SOCIAL_LINKS = {
 };
 
 const CONTACT = {
-  email: "dwaxx12@gmail.com",
+  email: "muhammaddwikiwicaksono18@gmail.com",
   phone: "+62 813-2918-7077",
   phoneHref: "+6281329187077",
   location: "Yogyakarta, Indonesia"
