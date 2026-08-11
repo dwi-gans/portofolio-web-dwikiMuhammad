@@ -32,7 +32,7 @@ const PROJECTS = [
   },
     {
     title: "Rino Rent Car — Dashboard Admin Rental Mobil",
-    period: "april 2024 – Agu 2024",
+    period: "April 2024 – Agu 2024",
     category: "Web App",
     description:
       "Dashboard admin untuk manajemen rental mobil dengan fitur booking real-time, kalkulasi otomatis harga sewa berdasarkan durasi dan diskon sopir, serta manajemen unit kendaraan yang terintegrasi dengan REST API.",
